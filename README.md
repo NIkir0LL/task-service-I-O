@@ -45,7 +45,7 @@ Task Service — это сервер на Go, предназначенный д�
 
    ```bash
    git clone https://github.com/NIkir0LL/task-service-I-O
-   cd task-service
+   cd task-service-I-O/task-service
    ```
 
 2. Установите зависимости:
